@@ -1,0 +1,9 @@
+# No need for changing LF to CRLF
+*.json text eol=lf
+*.txt text eol=lf
+
+# Shaderpacks related
+*.vsh text eol=lf
+*.csh text eol=lf
+*.fsh text eol=lf
+*.glsl text eol=lf

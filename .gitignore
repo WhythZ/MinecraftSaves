@@ -1,0 +1,31 @@
+# Ignore all files
+/*
+
+# Except for folders below
+!saves/
+!saves/**
+
+!resourcepacks/
+!resourcepacks/**
+
+!shaderpacks/
+!shaderpacks/**
+
+!mods/
+!mods/**
+
+!schematics/
+!schematics/**
+
+!XaeroWorldMap/
+!XaeroWorldMap/**
+
+!XaeroWaypoints/
+!XaeroWaypoints/**
+
+# And for some other single files
+!options.txt
+!.gitignore
+!.gitattributes
+!README.md
+!LICENSE
