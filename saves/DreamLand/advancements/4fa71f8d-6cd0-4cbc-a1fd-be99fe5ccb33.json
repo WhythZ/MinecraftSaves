@@ -5404,5 +5404,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 15:26:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2024-12-21 15:26:40 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
